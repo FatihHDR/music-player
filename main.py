@@ -9,7 +9,7 @@ import pygame.mixer_music as music
 import pygame
 import random
 
-folder_path=r"C:\Users\vyoms\OneDrive\Desktop\Projects\Music\Songs" # Enter Default Folder Path
+folder_path=r"C:/Download # Enter Default Folder Path
 
 def get_song_list(folder_path):
     songs = []
