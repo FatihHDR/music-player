@@ -1,4 +1,4 @@
-# Python-MP
+# music-player
 A simple music player implemented in Python, featuring a graphical user interface (GUI) and various functionalities for managing and playing music files.
 
 ## Features 
